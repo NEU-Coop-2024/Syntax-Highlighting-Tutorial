@@ -4,12 +4,12 @@ description: >-
   A simple site powered by Jekyll and GitHub Pages.
   (This text can span multiple lines.)
 baseurl: "" # Leave empty for a personal site; add "/repo-name" for a project site
-url: "https://<username>.github.io" # Replace <username> with your GitHub username
+url: "https://neu-coop-2024.github.io/Syntax-Highlighting-Tutorial/" # Replace <username> with your GitHub username
 
 # Author settings
 author:
-  name: Your Name
-  email: your-email@example.com
+  name: Kevin Yang
+  email: kevingyang72@gmail.com
 
 # Theme (default themes supported by GitHub Pages)
 theme: minima # Replace with another theme name if you're using a custom one
