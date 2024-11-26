@@ -12,7 +12,7 @@ author:
   email: kevingyang72@gmail.com
 
 # Theme (default themes supported by GitHub Pages)
-theme: minima # Replace with another theme name if you're using a custom one
+theme: jekyll-theme-minimal # Replace with another theme name if you're using a custom one
 
 # Markdown settings
 markdown: kramdown
